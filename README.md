@@ -9,7 +9,7 @@ A principal motivação é a possibilidade de rápido acesso a dados financeiros
 
 # Fonte de dados
 A biblioteca yfinance em Python é uma interface simples e fácil de usar para acessar dados financeiros fornecidos pela bilioteca yfinance. Ela permite que os desenvolvedores recuperem informações como cotações de ações, histórico de preços, informações fundamentais e outros dados de mercado relevantes.
-O acesso à documentação e a instação da biblioteca estão disponíveis neste link: https://pypi.org/project/yfinance/
+O acesso à documentação e à instação da biblioteca estão disponíveis neste link: https://pypi.org/project/yfinance/
 
 # Métodos
 O AWS Lambda permite que você execute código sem provisionar ou gerenciar servidores, tornando-o uma opção conveniente para executar scripts Python de forma escalável e flexível. Este serviço será utilizado para as requisições;
