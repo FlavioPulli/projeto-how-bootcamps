@@ -2,7 +2,7 @@
 
 
 # Objetivo
-O objetivo deste projeto é desenvolver uma plataforma de dados que faça uso da API do Yahoo Finance (yfinance) e disponibilizar dados de performance das organizações listadas. O sistema irá coletar dados financeiros de várias empresas e instrumentos financeiros, como ações, fundos de investimento, índices, moedas e commodities.
+O objetivo deste projeto é desenvolver uma plataforma de dados que faça uso da API library do Yahoo Finance (yfinance) e disponibilizar dados de performance das organizações listadas. O sistema irá coletar dados financeiros de várias empresas e instrumentos financeiros, como ações, fundos de investimento, índices, moedas e commodities.
 
 # Motivação
 A principal motivação é a possibilidade de rápido acesso a dados financeiros atualizados e confiáveis das companhias listadas nas bolsas de valores. Essas informações cruciais podem ser a diferença entre tomar decisões estratégicas e informadas ou ficar para trás no mercado financeiro.
