@@ -8,7 +8,7 @@ O objetivo deste projeto é desenvolver uma plataforma de dados que faça uso da
 A principal motivação é a possibilidade de rápido acesso a dados financeiros atualizados e confiáveis das companhias listadas nas bolsas de valores. Essas informações são cruciais e podem ser a diferença entre tomar decisões estratégicas e informadas ou ficar para trás no mercado financeiro.
 
 # Fonte de dados
-A biblioteca yfinance em Python é uma interface simples e fácil de usar para acessar dados financeiros fornecidos pela bilioteca yfinance. Ela permite que os desenvolvedores recuperem informações como cotações de ações, histórico de preços, informações fundamentais e outros dados de mercado relevantes.
+A biblioteca yfinance em Python é uma interface simples e fácil de usar para acessar dados financeiros fornecidos pelo Yahoo. Ela permite que os desenvolvedores recuperem informações como cotações de ações, histórico de preços, informações fundamentais de empresas para uma análise mais fundamentalista entre outros dados de mercado relevantes.
 O acesso à documentação e à instação da biblioteca estão disponíveis neste link: https://pypi.org/project/yfinance/
 
 # Métodos
